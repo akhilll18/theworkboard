@@ -408,7 +408,7 @@ export function Sidebar({ open, toggleSidebar }: SidebarProps) {
                   color: '#111827',
                 }}
               >
-                David McMichael
+                Akhil Reddy
               </Typography>
               <Typography 
                 sx={{ 
@@ -421,13 +421,13 @@ export function Sidebar({ open, toggleSidebar }: SidebarProps) {
                   display: 'block',
                 }}
               >
-                david@workora.com
+                akhil@workora.com
               </Typography>
             </Box>
           </Box>
         ) : (
           <Box sx={{ display: 'flex', justifyContent: 'center' }}>
-            <Tooltip title="David McMichael" placement="right" arrow>
+            <Tooltip title="Akhil Reddy" placement="right" arrow>
               <Avatar 
                 sx={{ width: 24, height: 24, bgcolor: 'primary.light', fontSize: '0.65rem' }}
                 src="https://i.pravatar.cc/150?img=11"

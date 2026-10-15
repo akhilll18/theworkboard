@@ -232,14 +232,14 @@ export function Header({ toggleMobileSidebar }: HeaderProps) {
                 fontWeight={600}
                 sx={{ fontFamily: 'Poppins, sans-serif !important' }}
               >
-                David McMichael
+                Akhil Reddy 
               </Typography>
               <Typography 
                 variant="caption" 
                 color="text.secondary"
                 sx={{ fontFamily: 'Poppins, sans-serif !important' }}
               >
-                david@workora.com
+                akhil@workora.com
               </Typography>
             </Box>
             <Divider />
